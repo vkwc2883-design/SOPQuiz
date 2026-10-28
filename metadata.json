@@ -1,0 +1,6 @@
+{
+  "name": "CertiFlow SOP & Job Function LMS",
+  "description": "AI-powered Learning Management System for SOP ingestion, automated quiz generation, role-based access control (Admin, Manager, Staff), and real-time gradebook tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
